@@ -1,11 +1,32 @@
-<h1 align="center">Hi 👋, I'm CHIZOMEBLADE</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hey there, I'm 5nz!
 
-- 🗨️ Join Smokeware to ask me questions **httos://discord.gg/Zj4Y9FFzyD**
+![Discord Status](https://discord.c99.nl/widget/theme-1/1167683183056269312.png)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🌐 Currently working on **SG**
+- 💻 Proficient in: **JavaScript (Node.js), Python, HTML/CSS**
+- 🌈 Knows How To Code In: **JavaScript, Python, HTML, CSS, Lua (Roblox)**
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=lua)
+![Roblox](https://img.shields.io/badge/-Roblox-black?style=flat-square&logo=roblox)
+
+## 🌐 Connect with Me
+
+- [Discord Server](https://discord.gg/Zj4Y9FFzyD)
+- [GitHub](https://github.com/v5x0x)
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=5nz&show_icons=true&hide_title=true&count_private=true&theme=dark)
+
+## 🎉 Let's Connect!
+
+- Feel free to reach out if you have any questions, collaboration ideas!😊
