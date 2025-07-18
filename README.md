@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 
 - [Discord Server](https://discord.gg/Zj4Y9FFzyD)
-- [GitHub]((https://github.com/VAMPMANE))
+- [GitHub](https://github.com/VAMPMANE)
 
 ## 📊 GitHub Stats
 
