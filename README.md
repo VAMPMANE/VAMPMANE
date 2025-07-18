@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm CHIZOMEBLADE!
+# 👋 Hey there, I'm VAMPMANE!
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@
 ## 🌐 Connect with Me
 
 - [Discord Server](https://discord.gg/Zj4Y9FFzyD)
-- [GitHub](https://github.com/v5x0x)
+- [GitHub]((https://github.com/VAMPMANE))
 
 ## 📊 GitHub Stats
 
